@@ -1,0 +1,1 @@
+eksctl create cluster --name prod --region us-east-2  --version 1.26 --vpc-private-subnets subnet-0a1cb402b9dadaf10,subnet-0aec23ca6030e9125,subnet-0624c29f1138f7dc3
